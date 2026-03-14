@@ -1,4 +1,4 @@
-# Hi, I'm Tshering Yangki 👋
+# Hi, I'm Tshering Yangki 
 
 An IT graduate from Southern Cross University  
 Based in Perth, Australia  
@@ -42,5 +42,6 @@ Angular | JavaScript | HTML | CSS
 - Backend API development
 - Cloud deployment
 
-📫 Contact me:
+Contact me:
 yangkeeytshering57@gmail.com
+0450597042
